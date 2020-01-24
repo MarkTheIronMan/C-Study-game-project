@@ -10,4 +10,4 @@ Controls:
 
 Left, Right, Up - Move Left, Right, Jump;
 Space - Drop cactus (if you got atleast one);
-T - transform into fast firefox;
+T - transform into fast firefox (if you got enough level of potion);
