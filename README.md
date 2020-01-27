@@ -10,7 +10,7 @@ Try to free aliens from Area 51 with your hero. Toss cactuses to horde of enemie
 Controls:
 
 Left, Right, Up - Move Left, Right, Jump;
-Space - Drop cactus (if you got atleast one);
+Space - throw cactus (if you got atleast one);
 T - transform into fast firefox (if you got enough level of potion);
 
 MindMap https://coggle.it/diagram/XbxfTq5A3Q7lBhaH/t/area-51
