@@ -14,4 +14,5 @@ Space - throw cactus (if you got atleast one);
 T - transform into fast firefox (if you got enough level of potion);
 
 MindMap https://coggle.it/diagram/XbxfTq5A3Q7lBhaH/t/area-51
-RoadMap https://docs.google.com/spreadsheets/d/1CJjfmeeQOhyps1bbPv_eCZdAxsu8mQPsSBOBY4_9C0U/edit#gid=0 
+
+RoadMap https://docs.google.com/spreadsheets/d/1CJjfmeeQOhyps1bbPv_eCZdAxsu8mQPsSBOBY4_9C0U/edit?usp=sharing
